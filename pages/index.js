@@ -5,7 +5,7 @@ const DUMMY_MEETUPS = [
     id: "m1",
     title: "A First Meetup",
     image:
-      "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-paris-france.jpg",
+      "https://tripwishlist.com/wp-content/uploads/2023/09/AdobeStock_152886744-scaled.webp",
     address: "Some address 5, 12345 Some City",
     description: "This is a first meetup!",
   },
@@ -13,7 +13,7 @@ const DUMMY_MEETUPS = [
     id: "m2",
     title: "A Second Meetup",
     image:
-      "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-paris-france.jpg",
+      "https://www.visabud.com/wp-content/uploads/2024/02/Best-Islands-to-Visit-in-the-Caribbean.jpeg",
     address: "Some address 5, 12345 Some City",
     description: "This is a Second meetup!",
   },
